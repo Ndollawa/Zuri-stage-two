@@ -1,0 +1,1 @@
+database: process.env.ONLINE_DATABASE_URL
